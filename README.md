@@ -16,12 +16,12 @@ https://github.com/schan9788
 ### 송규빈 `FrontEnd` `Android` `Kotlin`
 https://github.com/Songgyubin
 ### 박인준 `FrontEnd` `IOS` `Swift`
-
+https://github.com/demianjun/JOINUS
 *****
 ## # 사용한 프로그램
-`Android Studio` `Figma` `Zeplin` `Slack` `GoogleMeet` 
+`Android Studio` `Figma` `Zeplin` `Slack` `GoogleMeet` `Swift`
 ## # 사용한 외부 서비스
-`FireBase` `Retrofit` `okHttp3` `Glide` 
+`FireBase` `Retrofit` `okHttp3` `Glide` `RxSwift` `RxCocoa` `SnapKit` `Then` `Alamofire`
 *****
 ### 제 1회 OP.GG 정보통신 써-비스 제작 경진대회
 
